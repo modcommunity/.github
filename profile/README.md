@@ -15,5 +15,5 @@ Please check out our about page/slideshow [here](https://moddingcommunity.com/ab
 * Twitch - [twitch.tv/modcomm](https://twitch.tv/modcomm)
 * GitHub - [github.com/modcommunity](https://github.com/modcommunity)
 * FaceBook - [facebook.com/modcommunity](https://facebook.com/modcommunity)
-* Linkedin - [linkedin.com/company/modcommunity](https://linkedin.com/company/modcommunity]
+* Linkedin - [linkedin.com/company/modcommunity](https://linkedin.com/company/modcommunity)
 * MySpace - [myspace.com/modcommunity](https://myspace.com/modcommunity)

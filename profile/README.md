@@ -4,7 +4,7 @@ We are a community that shines spotlight and support onto the modding community.
 
 Please check out our about page/slideshow [here](https://moddingcommunity.com/about) for a simpler explanation!
 
-# [Social Network)(https://moddingcommunity.com/forums/topic/3-all-social-media-platforms/#comment-3)
+# [Social Network](https://moddingcommunity.com/forums/topic/3-all-social-media-platforms/#comment-3)
 * Discord - [dsc.gg/modcommunity](https://dsc.gg/modcommunity)
 * Steam - [steamcommunity.com/groups/moddingcommunity](https://steamcommunity.com/groups/moddingcommunity)
 * TikTok - [tiktok.com/@modcommunity](https://tiktok.com/@modcommunity)

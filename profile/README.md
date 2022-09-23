@@ -3,7 +3,7 @@
 # [Who Are We?](https://moddingcommunity.com/about)
 We are a community that shines spotlight and support onto the modding community. We introduce many new users to the modding community which in return improves content creation, career opportunities, talent, and more along with make things generally more enjoyable in gaming and entertainment as a whole.
 
-Please check out our about page/slideshow [here](https://moddingcommunity.com/about) for a simpler explanation!
+[ModdingCommunity.com](https://moddingcommunity.com)
 
 # [Social Network](https://moddingcommunity.com/forums/topic/3-all-social-media-platforms/#comment-3)
 * Discord - [dsc.gg/modcommunity](https://dsc.gg/modcommunity)

@@ -1,4 +1,5 @@
-<a href="https://moddingcommunity.com/about" target="_blank"><img src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" data-canonical-src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" width="600" height="65" /></a>
+<a href="https://moddingcommunity.com/about" target="_blank"><img src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" data-canonical-src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" /></a>
+
 # [Who Are We?](https://moddingcommunity.com/about)
 We are a community that shines spotlight and support onto the modding community. We introduce many new users to the modding community which in return improves content creation, career opportunities, talent, and more along with make things generally more enjoyable in gaming and entertainment as a whole.
 

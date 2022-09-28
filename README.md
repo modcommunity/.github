@@ -1,6 +1,6 @@
 <a href="https://moddingcommunity.com/about" target="_blank"><img src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" data-canonical-src="https://user-images.githubusercontent.com/6509565/188262424-ff26c377-d85e-4922-9ba2-dae15d83c39e.png" width="600" height="65" /></a>
 # [Who Are We?](https://moddingcommunity.com/about)
-We are a community that shines spotlight and support onto the modding community. We introduce many new users to the modding community which in return improves content creation, career opportunities, talent, and more along with make things generally more enjoyable in gaming and entertainment as a whole.
+We are an ever-expanding community that is taking modding to the next level! We have a unique marketplace, server and community browser, and hub for modders. We love the open-source community and use game engines such as [Godot Engine](http://godotengine.org/). Help us make modding the norm and generally make gaming, technology, and media better as a whole!
 
 Please check out our about page/slideshow [here](https://moddingcommunity.com/about) for a simpler explanation!
 

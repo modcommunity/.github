@@ -1,5 +1,5 @@
 # [Welcome! We Do Modding Here!](https://moddingcommunity.com)
-We are an ever-expanding community that is taking modding to the next level! We aleady provide or will be soon providing a unique marketplace, server and community browser, and hub for modders. We love the open-source community and use along with support game engines such as [Godot Engine](http://godotengine.org/). Help us make modding the norm and generally make gaming, technology, and media better as a whole! Read below if you're interested!
+We are an ever-expanding community that is taking modding to the next level! We already provide or will be soon providing a unique marketplace, server and community browser, and hub for modders. We love the open-source community and use along with support game engines such as [Godot Engine](http://godotengine.org/). Help us make modding the norm and generally make gaming, technology, and media better as a whole! Read below if you're interested!
 
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vSlROYETsWYlJkqM7y9J5qeHRjh6ZY6Liv0RIkxSX6EjQ7X3_kzQFkp3HNHtebks8YAe3e2QV2lBmka/pub" target="_blank"><img src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" data-canonical-src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" /></a>
 

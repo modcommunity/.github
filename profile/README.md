@@ -15,7 +15,7 @@ We have many plans ahead to make gaming and modding better! These plans are deta
 ## How To Help And Get Involved?
 If you are interested in helping out, please see the following!
 
-* Create an account @ [ModdingCommunity.com](https://ModdingCommunuity.com) and introduce yourself or contribute to other discussions!
+* Create an account @ [ModdingCommunity.com](https://ModdingCommunity.com) and introduce yourself or contribute to other discussions!
 * Join our [Discord server](https://dsc.gg/modcommunity) to have real-time conversations or participate in community events such as [Discord Event Night](https://moddingcommunity.com/forums/calendar/event/1-event-nights-on-discord/)!
 * Follow and/or contribute to repositories in this organization!
 * Follow and support our social media platforms.

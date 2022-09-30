@@ -1,20 +1,43 @@
-<a href="https://moddingcommunity.com/about" target="_blank"><img src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" data-canonical-src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" /></a>
+# [Welcome! We Do Modding Here!](https://moddingcommunity.com)
+We are an ever-expanding community that is taking modding to the next level! We aleady provide or will be soon providing a unique marketplace, server and community browser, and hub for modders. We love the open-source community and use and support game engines such as [Godot Engine](http://godotengine.org/). Help us make modding the norm and generally make gaming, technology, and media better as a whole!
 
-# [Who Are We?](https://moddingcommunity.com/about)
-We are an ever-expanding community that is taking modding to the next level! We have a unique marketplace, server and community browser, and hub for modders. We love the open-source community and use game engines such as [Godot Engine](http://godotengine.org/). Help us make modding the norm and generally make gaming, technology, and media better as a whole!
+<a href="https://docs.google.com/presentation/d/e/2PACX-1vSlROYETsWYlJkqM7y9J5qeHRjh6ZY6Liv0RIkxSX6EjQ7X3_kzQFkp3HNHtebks8YAe3e2QV2lBmka/pub" target="_blank"><img src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" data-canonical-src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" /></a>
 
-[ModdingCommunity.com](https://moddingcommunity.com)
+# How And Why To Get Involved?
+* Create an account @ [ModdingCommunity.com](https://ModdingCommunuity.com) and introduce yourself or contribute to other discussions!
+* Join our [Discord server](https://dsc.gg/modcommunity) to have real-time conversations or participate in community events such as [Discord Event Night](https://moddingcommunity.com/forums/calendar/event/1-event-nights-on-discord/)!
+* Follow and/or contribute to repositories in this organization!
+* Follow and support our social media platforms.
+* Tell a friend and spread the word! The more people that know about this project, the more feedback we can receive to ensure our community goes in the right direction!
+
+We are trying to make as many files and projects open-source as possible within our community without putting users at risk. This is because we want to support the open-source community as much as possible.
+
+We have many plans ahead to make gaming and modding better! These plans may be detailed [here](https://github.com/modcommunity/Web-Open-Source), but we will be making a cleaner roadmap in the close feature to fulfill user expectations.
+
+# Open-Source Game Engines
+* [GoDot Engine](http://godotengine.org/) - The most **popular** open-source game engine! It includes many features and is the first game engine we're using.
+
+# Open-Source Mod Tools
+There are *no* open-source mod tools we are officially working on at this moment. We will be creating projects in the future and have plans for security and automation related tools such as an open-source anti-cheat. 
+
+In the meantime, feel free to view showcases on our [website here](https://moddingcommunity.com/forums/tags/showcase/) that includes many **open-source** mod tools, guides, and more!
+
+# Open-Source Games
+* [Speedrun: The Game](https://github.com/speedruntg/source-code) - An open-source video game created and maintained by [The Modding Community](https://github.com/modcommunity). We are geared towards the speedrunning community and will provide modding tools for the community to utilize so that anybody can create flavors, game modes, and maps for speedrunning!
+
+# Core
+* [Website Open-Source Files](https://github.com/modcommunity/Web-Open-Source) - All open-source web files used for our website. We will continue to grow the amount of open-source files we can provide as time goes on!
 
 # [Social Network](https://moddingcommunity.com/forums/topic/3-all-social-media-platforms/#comment-3)
-* Discord - [dsc.gg/modcommunity](https://dsc.gg/modcommunity)
-* Steam - [steamcommunity.com/groups/moddingcommunity](https://steamcommunity.com/groups/moddingcommunity)
-* TikTok - [tiktok.com/@modcommunity](https://tiktok.com/@modcommunity)
-* Twitter - [twitter.com/modcommunitysup](https://twitter.com/modcommunitysup)
-* Reddit - [reddit.com/r/modcommunity](https://reddit.com/r/modcommunity)
-* YouTube - [youtube.com/channel/UCR1cNRhEiTtu8-9V-Lt9sHw](https://youtube.com/channel/UCR1cNRhEiTtu8-9V-Lt9sHw) (youtube.com/modcommunity reserved for when our YouTube channel supports a custom URL)
-* Instagram - [instagram.com/the_modding_community](https://instagram.com/the_modding_community)
-* Twitch - [twitch.tv/modcomm](https://twitch.tv/modcomm)
-* GitHub - [github.com/modcommunity](https://github.com/modcommunity)
-* FaceBook - [facebook.com/modcommunity](https://facebook.com/modcommunity)
-* Linkedin - [linkedin.com/company/modcommunity](https://linkedin.com/company/modcommunity)
-* MySpace - [myspace.com/modcommunity](https://myspace.com/modcommunity)
+* Discord - [@modcommunity](https://dsc.gg/modcommunity)
+* Steam - [@moddingcommunity](https://steamcommunity.com/groups/moddingcommunity)
+* TikTok - [@modcommunity](https://tiktok.com/@modcommunity)
+* Twitter - [@modcommunitysup](https://twitter.com/modcommunitysup)
+* Reddit - [r/modcommunity](https://reddit.com/r/modcommunity)
+* YouTube - [@modcommunity](https://youtube.com/channel/UCR1cNRhEiTtu8-9V-Lt9sHw) (youtube.com/modcommunity reserved for when our YouTube channel supports a custom URL)
+* Instagram - [@the_modding_community](https://instagram.com/the_modding_community)
+* Twitch - [@modcomm](https://twitch.tv/modcomm)
+* GitHub - [@modcommunity](https://github.com/modcommunity)
+* FaceBook - [@modcommunity](https://facebook.com/modcommunity)
+* Linkedin - [@modcommunity](https://linkedin.com/company/modcommunity)
+* MySpace - [@modcommunity](https://myspace.com/modcommunity)

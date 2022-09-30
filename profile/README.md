@@ -30,7 +30,7 @@ There are *no* open-source mod tools we are officially working on at this moment
 In the meantime, feel free to view showcases on our [website here](https://moddingcommunity.com/forums/tags/showcase/) that includes many **open-source** mod tools, guides, and more!
 
 # Open-Source Games
-* [Speedrun: The Game](https://github.com/speedruntg/source-code) - An open-source video game created and maintained by [The Modding Community](https://github.com/modcommunity). We are geared towards the speedrunning community and will provide modding tools for the community to utilize so that anybody can create flavors, game modes, and maps for speedrunning!
+* [Speedrun: The Game](https://github.com/speedruntg) - An open-source video game created and maintained by [The Modding Community](https://github.com/modcommunity). We are geared towards the speedrunning community and will provide modding tools for the community to utilize so that anybody can create flavors, game modes, and maps for speedrunning!
 
 # Core
 * [Website Open-Source Files](https://github.com/modcommunity/Web-Open-Source) - All open-source web files used for our website. We will continue to grow the amount of open-source files we can provide as time goes on!

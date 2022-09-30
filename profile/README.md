@@ -41,7 +41,7 @@ In the meantime, feel free to view showcases on our [website here](https://moddi
 * TikTok - [@modcommunity](https://tiktok.com/@modcommunity)
 * Twitter - [@modcommunity_](https://twitter.com/modcommunity_)
 * Reddit - [r/modcommunity](https://reddit.com/r/modcommunity)
-* YouTube - [@modcommunity](https://youtube.com/channel/UCR1cNRhEiTtu8-9V-Lt9sHw) (youtube.com/modcommunity reserved for when our YouTube channel supports a custom URL)
+* YouTube - [@modcommunity](https://youtube.com/channel/UCR1cNRhEiTtu8-9V-Lt9sHw)
 * Instagram - [@modcommunity_](https://instagram.com/modcommunity_)
 * Twitch - [@modcomm](https://twitch.tv/modcomm)
 * GitHub - [@modcommunity](https://github.com/modcommunity)

@@ -1,18 +1,25 @@
 # [Welcome! We Do Modding Here!](https://moddingcommunity.com)
-We are an ever-expanding community that is taking modding to the next level! We aleady provide or will be soon providing a unique marketplace, server and community browser, and hub for modders. We love the open-source community and use and support game engines such as [Godot Engine](http://godotengine.org/). Help us make modding the norm and generally make gaming, technology, and media better as a whole!
+We are an ever-expanding community that is taking modding to the next level! We aleady provide or will be soon providing a unique marketplace, server and community browser, and hub for modders. We love the open-source community and use along with support game engines such as [Godot Engine](http://godotengine.org/). Help us make modding the norm and generally make gaming, technology, and media better as a whole! Read below if you're interested!
 
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vSlROYETsWYlJkqM7y9J5qeHRjh6ZY6Liv0RIkxSX6EjQ7X3_kzQFkp3HNHtebks8YAe3e2QV2lBmka/pub" target="_blank"><img src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" data-canonical-src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" /></a>
 
-# How And Why To Get Involved?
+**Note** - You may click the above GIF to go to a fully interactive presentation detailing who we are and what our mission is!
+
+# How Does This Benefit Or Interest Me?
+We are trying to make as many files and projects open-source as possible in our community without putting user's sensitive information at risk. This is because we want to support the open-source community as much as possible and with that, generally allows the community to trust in us more. This allows open-source developers, such as yourself, to contribute to our projects directly. Any of your contributions created may be publicly listed on your GitHub profile showing that you've contributed such as pull requests, forks, and general activity. On resumes and such, this can look great!
+
+With that said, as we grow, our community will consist of many talented individuals in the modding world ranging from programmers, engineers, system administrations, modelers, mappers, designers, general modders, and so many more! We will have a marketplace for mods, a hub for communities, and a server browser for modded servers (or lobbies). Our mission is to bring the modding community together and make a noticeable positive impact to gaming with modding support.
+
+We have many plans ahead to make gaming and modding better! These plans are detailed [here](https://github.com/modcommunity/Web-Open-Source), but we will be making a cleaner roadmap in the close feature to fulfill user expectations.
+
+## How To Help And Get Involved?
+If you are interested in helping out, please see the following!
+
 * Create an account @ [ModdingCommunity.com](https://ModdingCommunuity.com) and introduce yourself or contribute to other discussions!
 * Join our [Discord server](https://dsc.gg/modcommunity) to have real-time conversations or participate in community events such as [Discord Event Night](https://moddingcommunity.com/forums/calendar/event/1-event-nights-on-discord/)!
 * Follow and/or contribute to repositories in this organization!
 * Follow and support our social media platforms.
 * Tell a friend and spread the word! The more people that know about this project, the more feedback we can receive to ensure our community goes in the right direction!
-
-We are trying to make as many files and projects open-source as possible within our community without putting users at risk. This is because we want to support the open-source community as much as possible.
-
-We have many plans ahead to make gaming and modding better! These plans may be detailed [here](https://github.com/modcommunity/Web-Open-Source), but we will be making a cleaner roadmap in the close feature to fulfill user expectations.
 
 # Open-Source Game Engines
 * [GoDot Engine](http://godotengine.org/) - The most **popular** open-source game engine! It includes many features and is the first game engine we're using.

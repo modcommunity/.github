@@ -15,6 +15,8 @@ We offer the following products.
 #### [Mod Marketplace](https://moddingcommunity.com/topic/62-marketplace-in-development/)
 A mod marketplace that supports and encourages free and open-source mods. Paid mods are supported in any game that is allowed.
 
+We will also integrate [Pivot](https://github.com/NextGen-Modding/pivot) into this project allowing users to easily install mods for any game such as Minecraft, Skyrim, GTA V, and more! This will be similar to a mod launcher, but have a lot more functionality.
+
 #### [Server Browser](https://moddingcommunity.com/topic/63-server-browser-in-development/)
 A global server browser where you can find any community or modded servers in all supported games and platforms including Discord, Minecraft, Counter-Strike: Global Offensive, Garry's Mod, Team Fortress 2, and more!
 

@@ -1,5 +1,5 @@
 ## [NextGen Modding](https://github.com/NextGen-Modding)
-Check out [NextGen Modding](https://github.com/NextGen-Modding)! It serves as a collection of open source tools and solutions for game developers to integrate into their game. This results in community-made content having the necessary tools to thrive like never before with modding support!
+Check out [NextGen Modding](https://github.com/NextGen-Modding)! It serves as a collection of open source tools and solutions for game developers to integrate into their game that results in community-made content having the necessary tools to thrive like never before with modding support!
 
 ## [Welcome! We Do Modding Here!](https://moddingcommunity.com)
 We are an ever-expanding community creating a new generation of gaming using the power of **open source** and **modding** like never seen before! We have a marketplace, community and server hubs, forums, and more! We are working on [NextGen Modding](https://github.com/NextGen-Modding) to provide fully open source solutions game developers may integrate into their games to take community-made content to the next level!

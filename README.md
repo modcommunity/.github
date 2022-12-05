@@ -2,12 +2,31 @@
 Check out [NextGen Modding](https://github.com/NextGen-Modding)! It serves as a collection of open source tools and solutions for game developers to integrate into their game that results in community-made content having the necessary tools to thrive like never before with modding support!
 
 ## [Welcome! We Do Modding Here!](https://moddingcommunity.com)
-We are an ever-expanding community creating a new generation of gaming using the power of **open source** and **modding** like never seen before! We have a marketplace, community and server hubs, forums, and more! We are working on [NextGen Modding](https://github.com/NextGen-Modding) to provide fully open source solutions game developers may integrate into their games to take community-made content to the next level!
+We are an ever-expanding community creating a new generation of gaming using the power of **open source** and **modding** like never seen before! We have a [mod marketplace](https://moddingcommunity.com/topic/62-marketplace-in-development/), [community hub](https://moddingcommunity.com/communities/), [server browser](https://moddingcommunity.com/topic/63-server-browser-in-development/), [forums](https://moddingcommunity.com/), and more! We are working on [NextGen Modding](https://github.com/NextGen-Modding) to provide fully open source solutions game developers may integrate into their games to take community-made content to the next level!
 
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vSlROYETsWYlJkqM7y9J5qeHRjh6ZY6Liv0RIkxSX6EjQ7X3_kzQFkp3HNHtebks8YAe3e2QV2lBmka/pub" target="_blank"><img src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" data-canonical-src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" /></a>
 
 ## Mission
-Our focus is providing game developers and modders solutions to enhance content they or others own. We are actively working on our [mod marketplace](https://moddingcommunity.com/topic/62-marketplace-in-development/), [server browser](https://moddingcommunity.com/topic/63-server-browser-in-development/), [community hub](https://moddingcommunity.com/communities/), and [forums](https://moddingcommunity.com/)!
+Our focus is providing game developers and modders solutions to enhance content they or others own.
+
+### Our Services (In Development)
+We offer the following products.
+
+#### [Mod Marketplace](https://moddingcommunity.com/topic/62-marketplace-in-development/)
+A mod marketplace that supports and encourages free and open-source mods. Paid mods are supported in any game that is allowed.
+
+We will also integrate [Pivot](https://github.com/NextGen-Modding/pivot) into this project allowing users to easily install mods for any game such as Minecraft, Skyrim, GTA V, and more! This will be similar to a mod launcher, but have a lot more functionality.
+
+#### [Server Browser](https://moddingcommunity.com/topic/63-server-browser-in-development/)
+A global server browser where you can find any community or modded servers in all supported games and platforms including Discord, Minecraft, Counter-Strike: Global Offensive, Garry's Mod, Team Fortress 2, and more!
+
+Automatically connecting to game servers with **HTML 5 enabled** (through the web browser) is supported! Using tools and libraries from [NextGen Modding](https://github.com/NextGen-Modding) will allow you to host game servers where clients will be able to connect to your game server, downloading all required custom content, and load into the server all through the web browser!
+
+#### [Community Hub](https://moddingcommunity.com/communities/)
+A hub for any type of community including modding, gaming, and more! Create your own community and invite your own friends plus have discussions!
+
+#### [Forum](https://moddingcommunity.com/forums)
+Global forums where everybody from within the community can communicate and talk to one another!
 
 ## How To Help And Get Involved?
 If you are interested in helping out, please see the following!

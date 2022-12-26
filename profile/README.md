@@ -1,10 +1,12 @@
-## [NextGen Modding](https://github.com/NextGen-Modding)
-Check out [NextGen Modding](https://github.com/NextGen-Modding)! It serves as a collection of open source tools and solutions for game developers to integrate into their game that results in community-made content having the necessary tools to thrive like never before with modding support!
-
 ## [Welcome! We Do Modding Here!](https://moddingcommunity.com)
-We are an ever-expanding community creating a new generation of gaming using the power of **open source** and **modding** like never seen before! We have a [mod marketplace](https://moddingcommunity.com/topic/62-marketplace-in-development/), [community hub](https://moddingcommunity.com/communities/), [server browser](https://moddingcommunity.com/topic/63-server-browser-in-development/), [forums](https://moddingcommunity.com/), and more! We are working on [NextGen Modding](https://github.com/NextGen-Modding) to provide fully open source solutions game developers may integrate into their games to take community-made content to the next level!
+We are an ever-expanding community creating a new generation of gaming using the power of **open source** and **modding** like never seen before! We have a [mod marketplace](https://moddingcommunity.com/mods), [community hub](https://moddingcommunity.com/communities/), [server browser](https://moddingcommunity.com/topic/63-server-browser-in-development/), [forums](https://moddingcommunity.com/), and more! We are working on [NextGen Modding](https://github.com/NextGen-Modding) to provide fully open source solutions game developers may integrate into their games to take community-made content to the next level!
 
 <a href="https://docs.google.com/presentation/d/e/2PACX-1vSlROYETsWYlJkqM7y9J5qeHRjh6ZY6Liv0RIkxSX6EjQ7X3_kzQFkp3HNHtebks8YAe3e2QV2lBmka/pub" target="_blank"><img src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" data-canonical-src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" /></a>
+
+**Check out our road map [here](https://github.com/modcommunity/roadmap/projects)!**
+
+## [NextGen Modding](https://github.com/NextGen-Modding)
+Check out [NextGen Modding](https://github.com/NextGen-Modding)! It serves as a collection of open source tools and solutions for game developers to integrate into their game that results in community-made content having the necessary tools to thrive like never before with modding support!
 
 ## Mission
 Our focus is providing game developers and modders solutions to enhance content they or others own.

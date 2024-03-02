@@ -1,19 +1,16 @@
-We are an ever-expanding community creating a new generation of gaming using the power of **open source** and **modding** like never seen before. We are still under development.
+<a href="https://moddingcommunity.com/topic/55-the-modding-community-taking-modding-to-the-next-level-making-it-the-norm/" target="_blank"><img src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" data-canonical-src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" /></a>
+We are an ever-expanding community creating a new generation of gaming using the power of **open source** and **modding** like never seen before.
+
+Visit our website [here](https://moddingcommunity.com/)!
+
+We are still under heavy development!
 
 ## Services
-* [Best Mods](https://bestmods.io/) - Browse and find the best mods for you!
-* [Best Servers](https://bestservers.io/) - Browse and find the best game and Discord servers for you!
-* [Gamecom](https://gamecom.io/) - Browse and find the best games and communities for you!
-
-## Games
-* [Dodgeball: Uprising](https://github.com/modcommunity/Dodgeball-Uprising) - An open-source video game focused on the game dodgeball with full modding support. Made with Unity.
+* [Best Mods](https://bestmods.io/) - A global index for game mods from various sources on the Internet.
+* [Best Servers](https://bestservers.io/) - A global index for game and Discord servers.
 
 ## SDKs & Tools
-* [NextGen Modding](https://github.com/NextGen-Modding) - A collection of open-source modding tools that you may integrate into your games! Our tools enhance the modding experience for both singleplayer and multiplayer games.
-
-**Check out our road map [here](https://github.com/modcommunity/roadmap/projects)!**
-
-<a href="https://docs.google.com/presentation/d/e/2PACX-1vSlROYETsWYlJkqM7y9J5qeHRjh6ZY6Liv0RIkxSX6EjQ7X3_kzQFkp3HNHtebks8YAe3e2QV2lBmka/pub" target="_blank"><img src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" data-canonical-src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" /></a>
+* [NextGen Modding](https://github.com/NextGen-Modding) - A collection of open-source game development and modding tools!
 
 ## [Social Network](https://moddingcommunity.com/forums/topic/3-all-social-media-platforms/#comment-3)
 * Discord - [@modcommunity](https://dsc.gg/modcommunity)

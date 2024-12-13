@@ -1,30 +1,18 @@
-We are an ever-expanding community creating a new generation of gaming using the power of **open source** and **modding** like never seen before. We are still under development.
+<p align="center">
+  <a href="https://moddingcommunity.com/" target="_blank">
+      <img src="https://forum.moddingcommunity.com/uploads/default/original/1X/3d6966fb261fefddf8aca1c8c4ba3120592b3bd1.png" width="250px" data-canonical-src="https://forum.moddingcommunity.com/uploads/default/original/1X/3d6966fb261fefddf8aca1c8c4ba3120592b3bd1.png" />
+  </a>
+</p>
 
-## Services
-* [Best Mods](https://bestmods.io/) - Browse and find the best mods for you!
-* [Best Servers](https://bestservers.io/) - Browse and find the best game and Discord servers for you!
-* [Gamecom](https://gamecom.io/) - Browse and find the best games and communities for you!
+An upcoming inclusive modding community and game developer that currently offers a [forum](https://forum.moddingcommunity.com) and, in the future, will provide a mod workshop, server browser, and much more! We support popular games like [Minecraft](https://www.minecraft.net/en-us), [GTA V](https://www.rockstargames.com/gta-v), [Skyrim](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/), [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/), and many others!
 
-## Games
-* [Dodgeball: Uprising](https://github.com/modcommunity/Dodgeball-Uprising) - An open-source video game focused on the game dodgeball with full modding support. Made with Unity.
+Visit our website @ [moddingcommunity.com](https://moddingcommunity.com/)!
 
-## SDKs & Tools
-* [NextGen Modding](https://github.com/NextGen-Modding) - A collection of open-source modding tools that you may integrate into your games! Our tools enhance the modding experience for both singleplayer and multiplayer games.
+Join our Discord [server](https://discord.moddingcommunity.com)!
 
-**Check out our road map [here](https://github.com/modcommunity/roadmap/projects)!**
-
-<a href="https://docs.google.com/presentation/d/e/2PACX-1vSlROYETsWYlJkqM7y9J5qeHRjh6ZY6Liv0RIkxSX6EjQ7X3_kzQFkp3HNHtebks8YAe3e2QV2lBmka/pub" target="_blank"><img src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" data-canonical-src="https://github.com/Deaconn-net/Misc/blob/main/TMC.gif" /></a>
-
-## [Social Network](https://moddingcommunity.com/forums/topic/3-all-social-media-platforms/#comment-3)
-* Discord - [@modcommunity](https://dsc.gg/modcommunity)
+## Follow Us!
 * Steam - [@moddingcommunity](https://steamcommunity.com/groups/moddingcommunity)
-* TikTok - [@modcommunity](https://tiktok.com/@modcommunity)
-* Twitter - [@modcommunity_](https://twitter.com/modcommunity_)
-* Reddit - [r/modcommunity](https://reddit.com/r/modcommunity)
-* YouTube - [@modcommunity](https://youtube.com/channel/UCR1cNRhEiTtu8-9V-Lt9sHw)
+* X (Twitter) - [@modcommunity_](https://twitter.com/modcommunity_)
+* YouTube - [@modcomm](https://youtube.com/@modcomm)
 * Instagram - [@modcommunity_](https://instagram.com/modcommunity_)
-* Twitch - [@modcomm](https://twitch.tv/modcomm)
-* GitHub - [@modcommunity](https://github.com/modcommunity)
 * FaceBook - [@modcommunity](https://facebook.com/modcommunity)
-* Linkedin - [@modcommunity](https://linkedin.com/company/modcommunity)
-* MySpace - [@modcommunity](https://myspace.com/modcommunity)

@@ -6,10 +6,10 @@
 
 An upcoming inclusive modding and game development community that currently offers a [forum](https://forum.moddingcommunity.com) and, in the future, will provide a mod workshop, server browser, and much more! We support popular games like [Minecraft](https://www.minecraft.net/en-us), [GTA V](https://www.rockstargames.com/gta-v), [Skyrim](https://store.steampowered.com/app/489830/The_Elder_Scrolls_V_Skyrim_Special_Edition/), [Garry's Mod](https://store.steampowered.com/app/4000/Garrys_Mod/), and many others!
 
-* [Website](https://moddingcommunity.com/)
-* [Blog](https://blog.moddingcommunity.com)
-* [Forum](https://forum.moddingcommunity.com/)
-* [Discord](https://discord.moddingcommunity.com)
+- 🎮 [Apps & Games](https://moddingcommunity.com/apps)
+- 🌐 [Server Browser](https://moddingcommunity.com/servers)
+- 📝 [Blog](https://blog.moddingcommunity.com)
+- 💬 [Forum](https://forum.moddingcommunity.com)
 
 ## Follow Us!
 * Steam - [@moddingcommunity](https://steamcommunity.com/groups/moddingcommunity)

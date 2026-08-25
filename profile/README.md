@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://moddingcommunity.com/" target="_blank">
-      <img src="https://moddingcommunity.com/images/banner.png" width="250px" data-canonical-src="https://moddingcommunity.com/images/banner.png" />
+      <img src="./banner02-base.png" width="480px" data-canonical-src="./banner02-base.png" />
   </a>
 </p>
 

@@ -8,7 +8,9 @@ An inclusive **modding** and **game development** community. We offer a space wh
 
 - 🎮 [Apps & Games](https://moddingcommunity.com/apps)
 - 🔨 [Mod Workshop](https://moddingcommunity.com/mods)
+  - **We're working on an [open source app](https://github.com/modcommunity/tmc-app) that will support managing mods including one-click installs!**
 - ⚙️ [Assets](https://moddingcommunity.com/assets) (game assets & more!)
+  - **We're creating our own cross-platform [gaming platform](https://moddingcommunity.com/play) using [@godotengine](https://github.com/godotengine)! Check out our `dot-*` assets!**
 - 🌐 [Server Browser](https://moddingcommunity.com/servers)
 - 📝 [Blog](https://moddingcommunity.com/blog)
 - 💻 [GitHub Org](https://github.com/modcommunity)
